@@ -1,7 +1,8 @@
 misc/
 models/
 .ipynb_checkpoints/
-notebooks/
+final_notebooks_v1/
 live/
 logs/
 snapshots/
+
