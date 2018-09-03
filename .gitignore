@@ -1,3 +1,7 @@
 misc/
 models/
 .ipynb_checkpoints/
+notebooks/
+live/
+logs/
+snapshots/
